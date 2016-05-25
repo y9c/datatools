@@ -1,0 +1,13 @@
+{
+  "algorithm": "KMEANS",
+  "k": 5,
+  "kmeans_njobs": 2,
+  "epsilon": 0.0,
+  "min_sample_ratio": 0.0,
+  "gamma": 0.0,
+  "coef0": 0.0,
+  "metrics": {
+    "evaluationMetric": "SILHOUETTE",
+    "customEvaluationMetricGIB": true
+  }
+}

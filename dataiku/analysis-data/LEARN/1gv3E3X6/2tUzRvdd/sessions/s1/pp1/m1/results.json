@@ -1,0 +1,210 @@
+{
+    "metrics": {
+        "nbClusters": 5, 
+        "silhouette": 0.44694712385462454, 
+        "inertia": 100.98123517923268
+    }, 
+    "reduce_vars": [], 
+    "train_nb_features": 4, 
+    "train_nb_records": 189, 
+    "variables_importance": {
+        "variables": [
+            "Mean", 
+            "Mean_1", 
+            "S.D.", 
+            "S.D._1"
+        ], 
+        "importances": [
+            0.33566363649530623, 
+            0.23896327930013542, 
+            0.24508218738053084, 
+            0.1802908968240276
+        ]
+    }, 
+    "cluster_description": [
+        {
+            "variable": "S.D.", 
+            "var": 5.54, 
+            "values": [
+                {
+                    "cluster": "cluster_0", 
+                    "col": 0, 
+                    "value": 5.4485294117647047
+                }, 
+                {
+                    "cluster": "cluster_1", 
+                    "col": 1, 
+                    "value": 3.9081632653061229
+                }, 
+                {
+                    "cluster": "cluster_2", 
+                    "col": 2, 
+                    "value": 1.3666666666666667
+                }, 
+                {
+                    "cluster": "cluster_3", 
+                    "col": 3, 
+                    "value": 6.4483870967741943
+                }, 
+                {
+                    "cluster": "cluster_4", 
+                    "col": 4, 
+                    "value": 2.3919999999999999
+                }, 
+                {
+                    "cluster": "cluster_outliers", 
+                    "col": 6, 
+                    "value": 7.4000000000000004
+                }
+            ]
+        }, 
+        {
+            "variable": "Mean", 
+            "var": 1642.8, 
+            "values": [
+                {
+                    "cluster": "cluster_0", 
+                    "col": 0, 
+                    "value": 147.2647058823529
+                }, 
+                {
+                    "cluster": "cluster_1", 
+                    "col": 1, 
+                    "value": 111.24285714285712
+                }, 
+                {
+                    "cluster": "cluster_2", 
+                    "col": 2, 
+                    "value": 52.826666666666675
+                }, 
+                {
+                    "cluster": "cluster_3", 
+                    "col": 3, 
+                    "value": 156.40322580645162
+                }, 
+                {
+                    "cluster": "cluster_4", 
+                    "col": 4, 
+                    "value": 73.42307692307692
+                }, 
+                {
+                    "cluster": "cluster_outliers", 
+                    "col": 6, 
+                    "value": 118.0
+                }
+            ]
+        }, 
+        {
+            "variable": "Mean_1", 
+            "var": 202.44, 
+            "values": [
+                {
+                    "cluster": "cluster_0", 
+                    "col": 0, 
+                    "value": 35.007352941176485
+                }, 
+                {
+                    "cluster": "cluster_1", 
+                    "col": 1, 
+                    "value": 29.071428571428566
+                }, 
+                {
+                    "cluster": "cluster_2", 
+                    "col": 2, 
+                    "value": 16.826666666666664
+                }, 
+                {
+                    "cluster": "cluster_3", 
+                    "col": 3, 
+                    "value": 40.751612903225805
+                }, 
+                {
+                    "cluster": "cluster_4", 
+                    "col": 4, 
+                    "value": 24.295454545454547
+                }, 
+                {
+                    "cluster": "cluster_outliers", 
+                    "col": 6, 
+                    "value": 57.5
+                }
+            ]
+        }, 
+        {
+            "variable": "S.D._1", 
+            "var": 3.04, 
+            "values": [
+                {
+                    "cluster": "cluster_0", 
+                    "col": 0, 
+                    "value": 1.8882352941176472
+                }, 
+                {
+                    "cluster": "cluster_1", 
+                    "col": 1, 
+                    "value": 1.4714285714285713
+                }, 
+                {
+                    "cluster": "cluster_2", 
+                    "col": 2, 
+                    "value": 1.0533333333333332
+                }, 
+                {
+                    "cluster": "cluster_3", 
+                    "col": 3, 
+                    "value": 2.6258064516129029
+                }, 
+                {
+                    "cluster": "cluster_4", 
+                    "col": 4, 
+                    "value": 1.2318181818181819
+                }, 
+                {
+                    "cluster": "cluster_outliers", 
+                    "col": 6, 
+                    "value": 5.7000000000000002
+                }
+            ]
+        }, 
+        {
+            "variable": "cluster_size", 
+            "var": 574.27, 
+            "values": [
+                {
+                    "cluster": "cluster_0", 
+                    "col": 0, 
+                    "value": 68
+                }, 
+                {
+                    "cluster": "cluster_1", 
+                    "col": 1, 
+                    "value": 49
+                }, 
+                {
+                    "cluster": "cluster_3", 
+                    "col": 3, 
+                    "value": 31
+                }, 
+                {
+                    "cluster": "cluster_4", 
+                    "col": 4, 
+                    "value": 26
+                }, 
+                {
+                    "cluster": "cluster_2", 
+                    "col": 2, 
+                    "value": 15
+                }, 
+                {
+                    "cluster": "cluster_outliers", 
+                    "col": 6, 
+                    "value": 1
+                }
+            ]
+        }
+    ], 
+    "train_nb_outliers": 1, 
+    "summary": {
+        "clusters": []
+    }
+}

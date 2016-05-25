@@ -1,0 +1,3 @@
+[submodule "spyre"]
+	path = spyre
+	url = git@github.com:adamhajari/spyre.git

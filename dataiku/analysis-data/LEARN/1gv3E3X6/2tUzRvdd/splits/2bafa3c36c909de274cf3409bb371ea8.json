@@ -1,0 +1,50 @@
+{
+  "cparams": {
+    "extractBeforePrepare": true,
+    "selection": {
+      "samplingMethod": "HEAD_SEQUENTIAL",
+      "partitionSelectionMethod": "ALL",
+      "maxRecords": 100000,
+      "targetRatio": 0.02
+    },
+    "instanceIdRefresher": 0
+  },
+  "generationDate": 1435465918789,
+  "policyId": "extractBeforePrepare\u003dtrue,,ds\u003dNIHMS53354_supplement_02,sel\u003d(method\u003dhead-s,records\u003d100000)",
+  "instanceId": "2bafa3c36c909de274cf3409bb371ea8",
+  "format": "csv1",
+  "schema": {
+    "userModified": false,
+    "columns": [
+      {
+        "name": "col_0",
+        "type": "string",
+        "maxLength": -1
+      },
+      {
+        "name": "Mean",
+        "type": "double",
+        "maxLength": -1
+      },
+      {
+        "name": "S.D.",
+        "type": "double",
+        "maxLength": -1
+      },
+      {
+        "name": "Mean_1",
+        "type": "double",
+        "maxLength": -1
+      },
+      {
+        "name": "S.D._1",
+        "type": "double",
+        "maxLength": -1
+      }
+    ]
+  },
+  "fullPath": "full-2bafa3c36c909de274cf3409bb371ea8.csv",
+  "trainRows": 0,
+  "testRows": 0,
+  "fullRows": 190
+}

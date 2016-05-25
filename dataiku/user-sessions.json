@@ -1,0 +1,44 @@
+{
+  "tokens": [
+    {
+      "user": "admin",
+      "accessToken": "lKSHSqJKxJYpNpIdcxOnzzGDVNvSgnqDl6b3TuH4cDT4pMPuptsa0Sv2LKtNfItT",
+      "xsrfTokenSalt": "3BWq4tqb",
+      "granted": 1435429161039,
+      "refreshed": 1435466167705,
+      "forcedExpire": 0
+    },
+    {
+      "user": "admin",
+      "accessToken": "mQneaONeKlEfZ166NMQfW3jRjlE1qhYnl0basPNZEZtIMD5YKHbnXjvKzzFJvKNw",
+      "xsrfTokenSalt": "RpquZCMv",
+      "granted": 1435688530712,
+      "refreshed": 1435688532025,
+      "forcedExpire": 0
+    },
+    {
+      "user": "admin",
+      "accessToken": "jAMISy0YqJXWycDgmV7wVxIWApri4Gauulcy7x7mEETgWA6ojhecjCUc3MyY6gUQ",
+      "xsrfTokenSalt": "5xC9wnt2",
+      "granted": 1435734275444,
+      "refreshed": 1435734279540,
+      "forcedExpire": 0
+    },
+    {
+      "user": "admin",
+      "accessToken": "NmJVF7qpzQB1LPeHVqCjkzrSJJ18Y2AxaaY7UlGRz9vT2J9ck00Fike5KmiobaUf",
+      "xsrfTokenSalt": "fiFzDvcL",
+      "granted": 1437018107243,
+      "refreshed": 1437018108596,
+      "forcedExpire": 0
+    },
+    {
+      "user": "admin",
+      "accessToken": "FrzmtVYld2jOROznmJ7IzwyaPVE7woXyXvVJon1mW5s1tQokumPTSCDeWzVSOMcE",
+      "xsrfTokenSalt": "NIWseTz7",
+      "granted": 1438162572420,
+      "refreshed": 1438162573703,
+      "forcedExpire": 0
+    }
+  ]
+}

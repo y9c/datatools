@@ -1,0 +1,12 @@
+{
+  "users": {
+    "admin": {
+      "accessAllowed": true,
+      "allowedProjects": [
+        "LEARN",
+        "TUTORIAL_101",
+        "TUTORIAL_103"
+      ]
+    }
+  }
+}
